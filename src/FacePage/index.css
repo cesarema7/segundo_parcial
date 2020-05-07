@@ -1,0 +1,13 @@
+.menu {
+    background-color: rgb(243, 240, 240);
+    overflow: scroll;
+    white-space: nowrap;
+    width: 700px;
+    display: inline-block;
+    text-align: center;
+    /* justify-content: center; */
+    padding: 14px;
+    text-decoration: none;
+  }
+  
+  

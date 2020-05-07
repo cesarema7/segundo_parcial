@@ -1,0 +1,23 @@
+.menu-item {
+    padding: 0 40px;
+    margin: 5px 10px;
+    user-select: none;
+    cursor: pointer;
+    border: none;
+    background-color:  white;
+  }
+
+  .menu-item.active {
+    border: 1px green solid;
+  }
+   
+  .scroll-menu-arrow {
+    padding: 20px;
+    font-size: 500;
+    cursor: pointer;
+  }
+
+  .arrow-prev{
+    color: white;
+    font-size: xx-large;
+  }
