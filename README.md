@@ -27,7 +27,7 @@ A continuación se muestra en la Tabla I el detalle de cada versión especifican
 
 | No. | Commit | Descripción |
 | ------ | ------ | ------ |
-| 1 |   | 17 Filtros en 2D de vehículos |
+| 1 | 50be03e5a0777b83b021858fed058d76c0b15eeb | 17 Filtros en 2D de vehículos |
 
 
 # Sitios para descargar SVG
